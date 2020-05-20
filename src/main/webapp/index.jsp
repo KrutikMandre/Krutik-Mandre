@@ -1,7 +1,8 @@
 <html>
 <head>
-	<title>Krutik Mandre</title>
 	
+	<link rel="icon" type="image/png" href="images/logo.png" />
+	<title>Krutik Mandre</title>
 	<style type="text/css">
 	
 	body, html {
@@ -60,7 +61,7 @@
 			<div class="bg-text">
 			  <h2>Hello &amp; Welcome</h2>
 			  <h1 style="font-size:300%">I am Krutik Mandre </h1>
-			  <p>And I'm a Designer &amp; Coder</p>
+			  <p>And I'm a Web Designer &amp; Coder</p>
 			</div>
 		</div>
 	</div>
