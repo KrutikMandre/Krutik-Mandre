@@ -19,7 +19,7 @@
   
   /* Full height */
   height: 100%; 
-  margin-top: 5%;
+  margin-top: 10%;
   /* Center and scale the image nicely */
   background-position: center;
   background-repeat: no-repeat;
