@@ -183,7 +183,7 @@ ul.social-icons {
 			  <h1 style="font-size:300%">I'm Krutik Mandre </h1>
 			  <p>&lt; IT Student / Front-End Developer / Android Developer &gt;</p>
 			  <p>{ }</p>
-				<a href="https://github.com/krutikckt39"><i class="fa fa-github" aria-hidden="true" id="github"></i></a>
+				<a href="https://github.com/KrutikMandre"><i class="fa fa-github" aria-hidden="true" id="github"></i></a>
 				
 			</div>
 		</div>
